@@ -1,7 +1,8 @@
 <!-- SanChara README.md -->
 
 <p align="center">
-<img src="https://i.ibb.co/gZWck4Sp/Whats-App-Image-2025-09-05-at-17-03-01.jpg" alt="Whats-App-Image-2025-09-05-at-17-03-01" border="0"></p>
+  <img src="https://i.ibb.co/Q3NN25Dx/Chat-GPT-Image-Sep-8-2025-at-10-59-55-PM.png" alt="Chat-GPT-Image-Sep-8-2025-at-10-59-55-PM" border="0">
+</p>
 <h1 align="center">SanChara</h1>
 
 <p align="center">
