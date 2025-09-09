@@ -1,8 +1,7 @@
 <!-- SanChara README.md -->
 
 <p align="center">
-<img src="https://i.ibb.co/DPkGLNvt/file-000000002bfc61faa20bf303ee37d106-2.png" alt="file-000000002bfc61faa20bf303ee37d106-2" border="0">
-</p>
+<a href="https://sanchara.sreecharandesu.in"><img src="https://i.ibb.co/DPkGLNvt/file-000000002bfc61faa20bf303ee37d106-2.png" alt="file-000000002bfc61faa20bf303ee37d106-2" border="0"></a><a href="https://ibb.co/Kjt6TdNW"><img src="https://i.ibb.co/Kjt6TdNW/IMG-20250908-WA0015.jpg" alt="IMG-20250908-WA0015" border="0"></a>
 <h1 align="center">SanChara</h1>
 
 <p align="center">
